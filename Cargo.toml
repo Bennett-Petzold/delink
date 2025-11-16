@@ -1,0 +1,9 @@
+[package]
+name = "delink"
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+
+[dev-dependencies]
+mktemp = "0.5"
